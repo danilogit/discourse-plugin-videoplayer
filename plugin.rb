@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# name: my-plugin
+# name: discourse-plugin-videoplayer
 # about: This is a test using videojs as a video player
 # version: 1.0.0
 # authors: Danilo Lima
